@@ -1,4 +1,4 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Plot.ly Homework - Belly Button Biodiversity: https://raulfloresp.github.io/plotly_homework/
 ## Date: Agosto 2020
 ### By Raúl Flores Palacios
 
@@ -37,7 +37,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Final Result
 * The link to the page is located here:
 
-https://github.com/raulfloresp/databootcamp/tree/master/javascript-challenge/UFO-level-2
+https://raulfloresp.github.io/plotly_homework/
 
 
 The final webpage look is illustrated here:
